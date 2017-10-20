@@ -1,7 +1,6 @@
-Here is the first line
-Here is the second line
-And the third line
-And the fourth
-Your hair looks wonderful
-Unicorns!
-VAMPIRES!
+Hello world
+You look awesome today
+Fix your hair
+Hope you're not hungover
+Unicorn!
+WIZARDS!!!!!!
